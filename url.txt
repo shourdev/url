@@ -2,3 +2,4 @@ google.com
 glitch.com
 amazon.com
 replit.com
+youtube.com
